@@ -16,7 +16,7 @@
 - [High Velocity Team](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
 - [Grouping Chat - ASAP](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d)
 - [Authonomy](https://m.signalvnoise.com/i-do-whatever-i-want-at-work-and-i-havent-been-fired-yet-7aae85aa3586)
-- [Company Isn't Family](ttps://m.signalvnoise.com/the-company-isnt-a-family-d24f26c3f3fe)
+- [Company Isn't Family](https://m.signalvnoise.com/the-company-isnt-a-family-d24f26c3f3fe)
 - [Tired Badge of Honor](https://m.signalvnoise.com/being-tired-isn-t-a-badge-of-honor-fa6d4c8cff4e)
 - [Go Sleep](https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor-f24fbff47a75)
 - [Rockstar/Ninja Programmers](https://m.signalvnoise.com/i-m-a-boring-programmer-and-proud-of-it-d4ac3dd2defe)
